@@ -1,0 +1,9 @@
+# Core numerical and plotting libraries
+numpy
+matplotlib
+scipy
+scikit-learn
+
+# Deep learning stack
+torch
+torchvision
